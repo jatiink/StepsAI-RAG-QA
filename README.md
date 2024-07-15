@@ -51,7 +51,7 @@ streamlit run app.py
 To run Milvus using Docker, follow these steps:
 *  Download the Milvus Docker Compose file:
 ```
-wget https://github.com/milvus-io/milvus/releases/download/v2.0.2/milvus-standalone-docker-compose.yml -O docker-compose.yml
+wget https://github.com/milvus-io/milvus/releases/download/v2.4.4/milvus-standalone-docker-compose.yml -O docker-compose.yml
 ```
 *  Start Milvus:
 ```
